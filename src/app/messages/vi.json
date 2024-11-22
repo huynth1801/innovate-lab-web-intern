@@ -1,0 +1,24 @@
+{
+  "Home": {
+    "wallet": "Ví Blockchain",
+    "connect_wallet": "Kết nối ví",
+    "app_name": "Ứng dụng ví Blockchain",
+    "connection_success": "Kết nối thành công !",
+    "destination_address": "Địa chỉ",
+    "placeholder_destination_address": "Nhập địa chỉ",
+    "amount": "Số lượng (ETH)",
+    "placeholder_amount": "Nhập số lượng cần chuyển",
+    "transfer_button": "Chuyển",
+    "processing": "Đang xử lý",
+    "connection_fail": "Lôĩ khi kết nối mạng",
+    "transaction_history": "Lịch sử giao dịch",
+    "no_transactions": "Không có giao dịch nào",
+    "amount_transferred": "Số tiền đã chuyển",
+    "timestamp": "Thời gian",
+    "transfer_tokens": "Chuyển tiền",
+    "transfer_description": "Chuyển token một cách an toàn qua mạng blockchain.",
+    "connect_wallet_tooltip": "Kết nối ví của bạn để bắt đầu.",
+    "language_switcher_tooltip": "Đổi ngôn ngữ",
+    "after_connected": "Nhấn vào đây để xem lịch sử giao dịch hoặc huỷ kết nối"
+  }
+}

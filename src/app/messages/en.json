@@ -1,0 +1,24 @@
+{
+  "Home": {
+    "wallet": "Blockchain Wallet",
+    "connect_wallet": "Connect Wallet",
+    "app_name": "Blockchain Wallet Application",
+    "connection_success": "Connected successfully!",
+    "connection_fail": "Failed to connect to network.",
+    "destination_address": "Destination Address",
+    "placeholder_destination_address": "Enter destination address",
+    "amount": "Amount (ETH)",
+    "placeholder_amount": "Enter amount to transfer",
+    "transfer_button": "Transfer",
+    "processing": "Processing",
+    "transaction_history": "Transaction History",
+    "no_transactions": "No transactions found",
+    "amount_transferred": "Amount Transferred",
+    "timestamp": "Timestamp",
+    "transfer_tokens": "Transfer Tokens",
+    "transfer_description": "Transfer tokens securely across the blockchain network.",
+    "connect_wallet_tooltip": "Connect your wallet to start",
+    "language_switcher_tooltip": "Change language",
+    "after_connected": "Press to view your transactions history or disconnect"
+  }
+}
