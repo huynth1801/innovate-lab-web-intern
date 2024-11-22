@@ -95,6 +95,10 @@ bun dev
 Open http://localhost:3000 to see the app.
 
 
-{@embed: https://youtu.be/ixPyfnGaTlo}
 
+
+
+Demo video:
+
+https://github.com/user-attachments/assets/74d1fa2c-1311-4b1f-ac7b-b8ba82ce5d1f
 
