@@ -95,6 +95,6 @@ bun dev
 Open http://localhost:3000 to see the app.
 
 
-{@youtube: https://youtu.be/ixPyfnGaTlo}
+{@embed: https://youtu.be/ixPyfnGaTlo}
 
 
